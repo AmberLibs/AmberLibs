@@ -1,5 +1,5 @@
 # AmberLibs / Gerb
-### Hey, I'm AmberLibs, also known as Gerb. I'm a backend system designer and project manager. The badges below will list my primary skillset.
+### Hey, I'm AmberLibs, also known as Gerb. I'm a backend system designer and project manager. The badges below will list my primary skillset. This Github account is (primarily) for Hobby work, please read the note at the bottom.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
